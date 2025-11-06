@@ -14,5 +14,5 @@ export declare class ValueAccessor implements ControlValueAccessor {
     registerOnTouched(fn: () => void): void;
     setDisabledState(isDisabled: boolean): void;
     static ɵfac: i0.ɵɵFactoryDeclaration<ValueAccessor, never>;
-    static ɵdir: i0.ɵɵDirectiveDeclaration<ValueAccessor, never, never, {}, {}, never, never, true, never>;
+    static ɵdir: i0.ɵɵDirectiveDeclaration<ValueAccessor, never, never, {}, {}, never, never, false>;
 }
