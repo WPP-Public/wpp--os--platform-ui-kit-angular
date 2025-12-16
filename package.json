@@ -1,7 +1,7 @@
 {
   "name": "@wppopen/components-library-angular",
   "description": "Angular bindings for components-library",
-  "version": "3.3.1",
+  "version": "3.4.0",
 
   "scripts": {
     "clean": "rimraf lib node_modules",
@@ -18,7 +18,7 @@
   "main": "lib/index.js",
 
   "peerDependencies": {
-    "@wppopen/components-library": "3.3.1",
+    "@wppopen/components-library": "3.4.0",
 
     "@angular/core": "^19.0.0 || ^20.0.0",
     "@angular/forms": "^19.0.0 || ^20.0.0",
