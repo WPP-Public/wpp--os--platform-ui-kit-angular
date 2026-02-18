@@ -5,5 +5,5 @@ export declare class BooleanValueAccessor extends ValueAccessor {
     constructor(el: ElementRef);
     writeValue(value: any): void;
     static ɵfac: i0.ɵɵFactoryDeclaration<BooleanValueAccessor, never>;
-    static ɵdir: i0.ɵɵDirectiveDeclaration<BooleanValueAccessor, "wpp-checkbox-v3-4-0-v3-4-0, wpp-toggle-v3-4-0-v3-4-0", never, {}, {}, never, never, true, never>;
+    static ɵdir: i0.ɵɵDirectiveDeclaration<BooleanValueAccessor, "wpp-checkbox-v4-0-0-v4-0-0, wpp-toggle-v4-0-0-v4-0-0", never, {}, {}, never, never, true, never>;
 }
