@@ -18,7 +18,7 @@
   "main": "lib/index.js",
 
   "peerDependencies": {
-    "@wppopen/components-library": "3.3.1",
+    "@wppopen/components-library": "git+https://github.com/WPP-Public/wpp--os--platform-ui-kit.git#v3.3.1",
 
     "@angular/core": "^19.0.0 || ^20.0.0",
     "@angular/forms": "^19.0.0 || ^20.0.0",
