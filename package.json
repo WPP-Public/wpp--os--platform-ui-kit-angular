@@ -1,7 +1,7 @@
 {
   "name": "@wppopen/components-library-angular",
   "description": "Angular bindings for components-library",
-  "version": "3.5.0",
+  "version": "4.0.0",
 
   "scripts": {
     "clean": "rimraf lib node_modules",
@@ -18,10 +18,10 @@
   "main": "lib/index.js",
 
   "peerDependencies": {
-    "@wppopen/components-library": "3.5.0",
+    "@wppopen/components-library": "git+https://github.com/WPP-Public/wpp--os--platform-ui-kit.git#v4.0.0",
 
-    "@angular/core": "^19.0.0 || ^20.0.0",
-    "@angular/forms": "^19.0.0 || ^20.0.0",
+    "@angular/core": "^19.0.0 || ^20.0.0 || ^21.0.0",
+    "@angular/forms": "^19.0.0 || ^20.0.0 || ^21.0.0",
     "rxjs": "^6.5.3 || ^7.4.0"
   },
 
@@ -30,11 +30,11 @@
   },
 
   "devDependencies": {
-    "@angular/compiler": "^20.0.0",
-    "@angular/compiler-cli": "^20.0.0",
-    "@angular/core": "^20.0.0",
-    "@angular/common": "^20.0.0",
-    "@angular/forms": "^20.0.0"
+    "@angular/compiler": "^21.0.0",
+    "@angular/compiler-cli": "^21.0.0",
+    "@angular/core": "^21.0.0",
+    "@angular/common": "^21.0.0",
+    "@angular/forms": "^21.0.0"
   },
 
   "publishConfig": {
