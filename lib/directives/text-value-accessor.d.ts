@@ -4,5 +4,5 @@ import * as i0 from "@angular/core";
 export declare class TextValueAccessor extends ValueAccessor {
     constructor(el: ElementRef);
     static ɵfac: i0.ɵɵFactoryDeclaration<TextValueAccessor, never>;
-    static ɵdir: i0.ɵɵDirectiveDeclaration<TextValueAccessor, "wpp-input-v4-0-0-v4-0-0, wpp-textarea-v4-0-0-v4-0-0", never, {}, {}, never, never, true, never>;
+    static ɵdir: i0.ɵɵDirectiveDeclaration<TextValueAccessor, "wpp-input-v4-1-0-v4-1-0, wpp-textarea-v4-1-0-v4-1-0", never, {}, {}, never, never, true, never>;
 }
