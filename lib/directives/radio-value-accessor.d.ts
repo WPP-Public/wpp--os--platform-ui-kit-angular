@@ -4,5 +4,5 @@ import * as i0 from "@angular/core";
 export declare class RadioValueAccessor extends ValueAccessor {
     constructor(el: ElementRef);
     static ɵfac: i0.ɵɵFactoryDeclaration<RadioValueAccessor, never>;
-    static ɵdir: i0.ɵɵDirectiveDeclaration<RadioValueAccessor, "wpp-radio-group-v4-1-0-v4-1-0, wpp-segmented-control-v4-1-0-v4-1-0", never, {}, {}, never, never, true, never>;
+    static ɵdir: i0.ɵɵDirectiveDeclaration<RadioValueAccessor, "wpp-radio-group-v4-2-0-v4-2-0, wpp-segmented-control-v4-2-0-v4-2-0", never, {}, {}, never, never, true, never>;
 }
