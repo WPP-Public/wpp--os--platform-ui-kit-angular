@@ -4,5 +4,5 @@ import * as i0 from "@angular/core";
 export declare class SelectValueAccessor extends ValueAccessor {
     constructor(el: ElementRef);
     static ɵfac: i0.ɵɵFactoryDeclaration<SelectValueAccessor, never>;
-    static ɵdir: i0.ɵɵDirectiveDeclaration<SelectValueAccessor, "wpp-autocomplete-v4-2-0-v4-2-0, wpp-select-v4-2-0-v4-2-0", never, {}, {}, never, never, true, never>;
+    static ɵdir: i0.ɵɵDirectiveDeclaration<SelectValueAccessor, "wpp-autocomplete-v4-3-0-v4-3-0, wpp-select-v4-3-0-v4-3-0", never, {}, {}, never, never, true, never>;
 }
